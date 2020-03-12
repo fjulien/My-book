@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub dev's book
 
 [Heading link](https://fjulien.github.io/My-book/best-pratices/comment-javascript-typescript)
 ```md
