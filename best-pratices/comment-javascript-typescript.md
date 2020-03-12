@@ -1,6 +1,6 @@
 # Style comment for typescript or javascript
 Remember pratices how comment my code
-### - Resume:
+## - Resume:
 ```typescript
 // set year only if not the same year as now
     if (dateYear !== nowYear) options.year = 'numeric';
@@ -17,13 +17,13 @@ function ajax(url, method, body) {
 }
 ```
 
-### - Comment inline:
+## - Comment inline:
 ```typescript
 // set year only if not the same year as now
 if (dateYear !== nowYear) options.year = 'numeric';
 ```
 
-### - Default comment:
+## - Default comment:
 ```typescript
 /**
  * Descript
@@ -32,28 +32,28 @@ if (dateYear !== nowYear) options.year = 'numeric';
  */
 ```
 
-### - Wrap comment:
+## - Wrap comment:
 ```typescript
 /**
  * ...
  */
 ```
 
-### - @Params:
+## - @Params:
 ```typescript
 /**
  * @param { Type params} Descript params
  */
 ```
 
-### - @Return:
+## - @Return:
 ```typescript
 /**
  * @return { Type return }
  */
 ```
 
-### - Params type:
+## - Params type:
 ```typescript
 /**
  * @param { String } url
@@ -92,7 +92,7 @@ if (dateYear !== nowYear) options.year = 'numeric';
  */
 ```
 
-### - @ Return type:
+## - @ Return type:
 ```typescript
 /**
  * @return { (Number | Error) }
