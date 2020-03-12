@@ -7,9 +7,9 @@ Remember pratices how comment my code
 
 /**
  * Send custom request using fetch api
- * @param { String } url
- * @param { String } method
- * @param { Object } body
+ * @param nameParams { String } url for post
+ * @param nameParams { String } method ...
+ * @param nameParams { Object } body in html content
  * @return { Promise }
  */
 function ajax(url, method, body) {
