@@ -1,12 +1,16 @@
 ## Welcome to GitHub dev's book
 
-[Heading link](https://fjulien.github.io/My-book/best-pratices/comment-javascript-typescript)
+
 ```md
 // Home
 [Home](https://fjulien.github.io/My-book)
 // Another page
 [name link](https://fjulien.github.io/My-book/directory/file)
 ```
+[Comment](https://fjulien.github.io/My-book/best-pratices/comment-javascript-typescript)
+[Git](https://fjulien.github.io/My-book/best-pratices/git)
+[Typing TS](https://fjulien.github.io/My-book/best-pratices/typing-typescript)
+[API GET](https://fjulien.github.io/My-book/best-pratices/api/get)
 
 You can use the [editor on GitHub](https://github.com/fjulien/My-book/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
