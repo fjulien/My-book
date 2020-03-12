@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Heading link](https://fjulien.github.io/My-book/best-pratices/style-for-typescript-or-javascript)
+[Heading link](https://fjulien.github.io/My-book/best-pratices/comment-javascript-typescript)
 ```md
 // Home
 [Home](https://fjulien.github.io/My-book)
