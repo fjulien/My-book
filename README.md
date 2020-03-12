@@ -1,6 +1,6 @@
 # Welcome into my book
 
-![Image](https://fjulien.github.io/My-book/images/me)
+![Image](https://fjulien.github.io/My-book/images/me.jpg)
 
 ## Me
 
