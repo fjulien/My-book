@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Heading link](https://fjulien.github.io/My-book/style-for-typescript-or-javascript)
+[Heading link](https://fjulien.github.io/My-book/best-pratices/style-for-typescript-or-javascript)
 
 You can use the [editor on GitHub](https://github.com/fjulien/My-book/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
