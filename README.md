@@ -2,6 +2,8 @@
 
 <img src="https://fjulien.github.io/My-book/images/me.jpg">
 
+[Link to me git pages](https://fjulien.github.io/My-book/)
+
 ## Me
 
 Full Stack web developer for more one year, I work in team on website creation projects. I also carry out personal projects or projects of friends to put into practice my new knowledge. I am detail-oriented and always involved in my work. Curious and confirmed self-taught, I like to learn and use new skills in all areas, I get involved in the whole process of realizing a project. 
