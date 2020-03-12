@@ -23,3 +23,10 @@
 :white_check_mark:http://web-site.com/items/12/elements/45
 
 :x:http://web-site.com/items/elements/12/45
+
+
+### - Get with multy id
+
+:white_check_mark:http://web-site.com/items/ids?10,52,48,75
+
+:x:http://web-site.com/items and to use methode POST and ids in body
