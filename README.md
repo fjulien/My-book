@@ -1,12 +1,19 @@
-## Welcome to GitHub dev's book
+# Welcome into my book
 
+![Image](https://fjulien.github.io/My-book/images/me)
 
-```md
-// Home
-[Home](https://fjulien.github.io/My-book)
-// Another page
-[name link](https://fjulien.github.io/My-book/directory/file)
-```
+## Me
+
+Full Stack web developer for more one year, I work in team on website creation projects. I also carry out personal projects or projects of friends to put into practice my new knowledge. I am detail-oriented and always involved in my work. Curious and confirmed self-taught, I like to learn and use new skills in all areas, I get involved in the whole process of realizing a project. 
+
+Amateur of sports, I practice running, indoor climbing and this year start rock dance classes.
+
+## Where are you?
+
+## Table of contents
+
+### My code pratices (stupid thinker)
+
 [Comment](https://fjulien.github.io/My-book/best-pratices/comment-javascript-typescript)
 
 [Git](https://fjulien.github.io/My-book/best-pratices/git)
@@ -14,6 +21,15 @@
 [Typing TS](https://fjulien.github.io/My-book/best-pratices/typing-typescript)
 
 [API GET](https://fjulien.github.io/My-book/best-pratices/api/get)
+
+Translated with www.DeepL.com/Translator (free version)
+```md
+// Home
+[Home](https://fjulien.github.io/My-book)
+// Another page
+[name link](https://fjulien.github.io/My-book/directory/file)
+```
+
 
 You can use the [editor on GitHub](https://github.com/fjulien/My-book/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
