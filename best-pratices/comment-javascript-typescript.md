@@ -53,7 +53,7 @@ if (dateYear !== nowYear) options.year = 'numeric';
  */
 ```
 
-### - Type list
+### - Params type:
 ```typescript
 /**
  * @param { String } url
@@ -92,7 +92,7 @@ if (dateYear !== nowYear) options.year = 'numeric';
  */
 ```
 
-### - @ Return promise:
+### - @ Return type:
 ```typescript
 /**
  * @return { (Number | Error) }
