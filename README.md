@@ -1,6 +1,6 @@
 # Welcome into my book
 
-[Image](https://fjulien.github.io/My-book/images/me.jpg)
+<img src="https://fjulien.github.io/My-book/images/me.jpg">
 
 ## Me
 
