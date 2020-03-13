@@ -24,7 +24,7 @@
 
 ❌http://web-site.com/items/elements/12/45
 
-## - Get with multy id
+## - Get with multy ids
 
 ✔️http://web-site.com/items/ids?10,52,48,75
 
