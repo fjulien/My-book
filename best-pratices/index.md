@@ -1,6 +1,6 @@
 # Best-pratices
 
-- [Comment ode](https://fjulien.github.io/My-book/best-pratices/comment-javascript-typescript)
+- [Comment code](https://fjulien.github.io/My-book/best-pratices/comment-javascript-typescript)
 
 - [Git](https://fjulien.github.io/My-book/best-pratices/git)
 
