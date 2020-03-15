@@ -1,5 +1,5 @@
-# My tutorials
+# Reminder
 
-- ## [This git pages](https://fjulien.github.io/My-book/my-tutorials/git-pages)
+- ## [Markdown](https://fjulien.github.io/My-book/reminder/markdown)
 
 #### [Home](https://fjulien.github.io/My-book)
