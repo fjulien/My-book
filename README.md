@@ -22,9 +22,9 @@ Enjoy your visit
 
 ### My tutorials
 
-- ### [This git pages](https://fjulien.github.io/My-book/my-tutorials/index)
+- ### [My tutorials](https://fjulien.github.io/My-book/my-tutorials/index)
 
 ### Reminder
 
-- ### [Markdown](https://fjulien.github.io/My-book/reminder/index)
+- ### [Reminder](https://fjulien.github.io/My-book/reminder/index)
 
