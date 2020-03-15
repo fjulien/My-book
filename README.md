@@ -20,11 +20,7 @@ Enjoy your visit
 
 - ### [My code pratices](https://fjulien.github.io/My-book/best-pratices/index)
 
-### My tutorials
-
 - ### [My tutorials](https://fjulien.github.io/My-book/my-tutorials/index)
-
-### Reminder
 
 - ### [Reminder](https://fjulien.github.io/My-book/reminder/index)
 
