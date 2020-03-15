@@ -12,17 +12,15 @@ Amateur of sports, I practice running, indoor climbing and this year start rock 
 
 ## Where are you?
 
+Here is my documentation book, you will find my documented best practices, my beast thoughts, my tutorials, the news websites I consult, my tools and much more.
+
+Enjoy your visit
+
 ## Table of contents
 
-### My code pratices (stupid thinker)
+- ### [My code pratices](https://fjulien.github.io/My-book/best-pratices/index)
 
-[Comment](https://fjulien.github.io/My-book/best-pratices/comment-javascript-typescript)
-
-[Git](https://fjulien.github.io/My-book/best-pratices/git)
-
-[Typing TS](https://fjulien.github.io/My-book/best-pratices/typing-typescript)
-
-[API GET](https://fjulien.github.io/My-book/best-pratices/api/get)
+### My tutorials
 
 Translated with www.DeepL.com/Translator (free version)
 ```md
