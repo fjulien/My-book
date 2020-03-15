@@ -15,3 +15,5 @@
 - [PUT](https://fjulien.github.io/My-book/best-pratices/api/put)
 
 - [DELETE](https://fjulien.github.io/My-book/best-pratices/api/DELETE)
+
+## [Home](https://fjulien.github.io/My-book)
