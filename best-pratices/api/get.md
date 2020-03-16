@@ -30,4 +30,10 @@
 
 ❌http://web-site.com/items and to use methode POST and ids in body
 
+## - Get elements whith some key value object
+
+✔️http://web-site.com/items/value1/key1/value2/key2
+
+❌http://web-site.com/items and to use methode POST and ids in body
+
 ### [Home](https://fjulien.github.io/My-book)
