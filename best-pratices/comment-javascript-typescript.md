@@ -76,11 +76,11 @@ if (dateYear !== nowYear) options.year = 'numeric';
  * @param { Integer{10000-99999} } zipcode
 
  //Object 
- * @param { Object.<name: String, age: Integer> }
+ * @param { {name: String, age: Integer} }
  
  // Array
  * @param { Object[] } students
- * @param { Array.<{ name: String, age: Integer }> } studentsNames
+ * @param { string[] } studentsNames
 
  // Callback
  * @param { Function(err<Error | Null>, user<Object>) } callback
