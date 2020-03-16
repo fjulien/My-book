@@ -24,3 +24,5 @@ Enjoy your visit
 
 - ### [Reminder](https://fjulien.github.io/My-book/reminder/index)
 
+- ### [Technological watch](https://fjulien.github.io/My-book/technological-watch/index)
+
