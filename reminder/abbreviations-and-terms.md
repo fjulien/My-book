@@ -1,4 +1,4 @@
-# Abbreviation
+# Abbreviations and Terms
 
 ## SQL
 
