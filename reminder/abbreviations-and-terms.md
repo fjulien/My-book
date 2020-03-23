@@ -4,6 +4,12 @@
 
 - CTE: (Common Table Expressions) 
 
-## Others
+## Architecture
+
+- Three-tier architecture: 
+
+Presentation tier -> Application tier (business logic, logic tier, or middle tier) -> Data tier -> |
+
+Presentation tier <- Application tier (business logic, logic tier, or middle tier) <- Data tier <- |
 
 #### [Home](https://fjulien.github.io/My-book)
