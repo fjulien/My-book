@@ -14,5 +14,7 @@ Presentation tier <- Application tier (business logic, logic tier, or middle tie
 
  ## Other
  - Types primitifs: boolean, int, string, float, ... 
+ 
+ - Applet: is software or mini-software that runs in the window of another application, usually a web browser. 
 
 #### [Home](https://fjulien.github.io/My-book)
